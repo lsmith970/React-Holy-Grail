@@ -1,0 +1,25 @@
+
+
+Header {
+  width: 712px;
+  height: 222px;
+  margin-bottom:10px;
+  border-style: solid;
+  border-color: black;
+}
+Content {
+  width: 712px;
+  height: 659px;
+  margin-bottom:10px;
+  border-style:solid;
+  border-color:black
+
+}
+Footer {
+  width: 712 px;
+  height: 87 px;
+  border-style: solid;
+  border-color: black;
+
+
+}
